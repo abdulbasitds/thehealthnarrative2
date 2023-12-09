@@ -8,7 +8,7 @@ image: images/ECZEMA-IN-BABIES.png
 
 ## How to treat Eczema in babies- Causes, Symptoms, Diagnosis, and it’s prevention
 
-![alt text](../../../images/ECZEMA-IN-BABIES.png)
+![alt text](../../../../images/ECZEMA-IN-BABIES.png)
 
 
 ## What does eczema looks like
@@ -26,7 +26,7 @@ Eczema tends to run in families and most children with eczema also have other al
 
 ## WHAT ARE THE SYMPTOMS OF ECZEMA?
 
-![alt text](../../../images/eczema-image-1-610x343.jpg)
+![alt text](../../../../images/eczema-image-1-610x343.jpg)
 
 - Dry skin
 - Red dry scaly patches
