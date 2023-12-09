@@ -6,12 +6,6 @@ categories: blog
 image: images/skin-cancer-thumb-nail.png
 ---
 
-
-
-## Does sunlight cause skin cancer? All you should know about sunlight’s effect on skin
-
-![alt text](../../../../images/skin-cancer-thumb-nail.png)
-
 UV radiation is a strong risk factor for the development of common skin cancers such as squamous cell carcinoma, basal cell carcinoma, and melanoma. UV radiations cause DNA damage and mutation which can lead to abnormal growth of skin cells and therefore cancer formation.
 
  

@@ -6,11 +6,6 @@ categories: blog
 image: images/ECZEMA-IN-BABIES.png
 ---
 
-## How to treat Eczema in babies- Causes, Symptoms, Diagnosis, and it’s prevention
-
-![alt text](../../../../images/ECZEMA-IN-BABIES.png)
-
-
 ## What does eczema looks like
 ECZEMA IN BABIES
 Eczema is an inflammatory skin condition that causes itchy, dry, scaly patches. It gets worse and settles down from time to time. Up to 90 % of cases occur before five years of age and more than half of children grow out of it by the time they reach teenage.
