@@ -3,7 +3,7 @@ layout: post
 title:  "How to treat Eczema in babies- Causes, Symptoms, Diagnosis, and it’s prevention"
 date:   2022-01-23 07:41:25 -0700
 categories: blog
-image: ../../../images/ECZEMA-IN-BABIES.png
+image: images/ECZEMA-IN-BABIES.png
 ---
 
 ## How to treat Eczema in babies- Causes, Symptoms, Diagnosis, and it’s prevention

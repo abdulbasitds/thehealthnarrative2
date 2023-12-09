@@ -3,7 +3,7 @@ layout: post
 title:  "Increase in COVID-19 cases among cruise passengers and crew reported to CDC"
 date:   2022-01-01
 categories: blog
-image: ../../../images/271067709_123086660205524_7563778666625609306_n.jpg
+image: images/271067709_123086660205524_7563778666625609306_n.jpg
 ---
 
 ## Increase in COVID-19 cases among cruise passengers and crew reported to CDC

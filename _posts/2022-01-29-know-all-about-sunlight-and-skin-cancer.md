@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Post 1!"
-date:   2020-08-07 07:41:25 -0700
+title:  "Does sunlight cause skin cancer? All you should know about sunlight’s effect on skin"
+date:   2022-01-29
 categories: blog
-image: /assets/images/image1.jpg
+image: images/skin-cancer-thumb-nail.png
 ---
 
 
