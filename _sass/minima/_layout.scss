@@ -19,6 +19,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: #cac1c1;
 
   &,
   &:visited {
@@ -274,6 +275,9 @@
 .post-list li {
   border-radius: 5px 20px 5px;
   background: #070a0a;
+}
+.post-list li a{
+  color:wheat;
 }
 .post-list li a:visited{
   color:white
