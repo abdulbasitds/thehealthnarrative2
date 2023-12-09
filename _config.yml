@@ -21,15 +21,9 @@
 title: The Health Narrative
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  “The health narrative” aims to provide recent health news, medical updates and general information about diseases.
-
-We regularly write blog posts and social media posts ablout the latest health updates, health tips and more.
-
-Join us to stay informed – the first step to promote global health.
-
-To read the latest health-related posts, visit our.
-
-
+  "The health narrative" aims to provide recent health news, medical updates and general information about diseases. We regularly write blog posts and social media posts ablout the latest health updates, health tips and more.
+  Join us to stay informed – the first step to promote global health.
+  To read the latest health-related posts, visit our.
 baseurl: "/thehealthnarrative2" # the subpath of your site, e.g. /blog
 url: "abdulbasitds.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: billraymonde
