@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Post 1!"
-date:   2020-08-07 07:41:25 -0700
+title:  "Increase in COVID-19 cases among cruise passengers and crew reported to CDC"
+date:   2022-01-01
 categories: blog
-image: /assets/images/image1.jpg
+image: ../../../images/271067709_123086660205524_7563778666625609306_n.jpg
 ---
 
 ## Increase in COVID-19 cases among cruise passengers and crew reported to CDC
