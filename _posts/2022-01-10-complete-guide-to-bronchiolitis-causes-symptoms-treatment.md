@@ -3,7 +3,7 @@ layout: post
 title:  "Complete guide to Bronchiolitis – Causes, Symptoms, and its treatment"
 date:   2022-01-10
 categories: blog
-image: images/bronchiolitis-thumbnail.jpg
+image: bronchiolitis-thumbnail.png
 ---
 
 ## Bronchiolitis
