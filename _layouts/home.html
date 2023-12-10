@@ -27,6 +27,9 @@ layout: default
           </a>
         </h3>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <div class="entry-line-bullet" >
+            <div class="entry-line-bullet-inner"></div>
+        </div>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
