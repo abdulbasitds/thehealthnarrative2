@@ -3,7 +3,7 @@ layout: post
 title:  "Maternal outcomes found positively assoicated with Structured diet and physical activity in a new research."
 date:   2022-01-01
 categories: blog
-image: images/27106maternal-health-blog.jpeg
+image: images/maternal-health-blog.jpeg
 ---
 
 Excessive gestational weight gain (weight gain in pregnancy ) is common and associated with adverse pregnancy outcomes.
