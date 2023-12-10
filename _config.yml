@@ -19,14 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Health Narrative
-email: your-email@example.com
+email: healthnarrativecontent@gmail.com
 frontImage: "images/262329144_111574744690049_4044592806893600071_n-768x768.jpg"
 description: >- # this means to ignore newlines until "baseurl:"
   Join us to stay informed – the first step to promote global health.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "thehealthnarrative.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: billraymonde
-github_username:  billraymond
+# twitter_username: billraymonde
+# github_username:  billraymond
+facebook_username: thehealthnarrative
 
 # only get the first sentence for the excerpt
 excerpt_separator: .
